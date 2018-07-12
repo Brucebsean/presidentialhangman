@@ -1,0 +1,33 @@
+<style>font-family: 'Cinzel', serif</style>
+title {
+  font-family: 'cinzel', sans-serif;
+  font-style:
+}
+
+body {
+  background: #DEC682;
+
+}
+
+h1 {
+  font-family: 'cinzel', sans-serif;
+  font-style: 500;
+  font-size: 48px;
+  text-align: center;
+  color: #B51834;
+
+}
+
+.box {
+  background-color: white;
+  height: 200px;
+
+}
+.presidents {
+  background-color: white;
+  height: 200px;
+  flex-direction: column;
+  
+}
+footer {
+}
