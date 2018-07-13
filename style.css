@@ -1,11 +1,25 @@
 <style>font-family: 'Cinzel', serif</style>
 title {
   font-family: 'cinzel', sans-serif;
-  font-style:
 }
 
 body {
   background: #DEC682;
+
+}
+
+.usseal {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.ph {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.galos {
+  margin-top: 44px;
 
 }
 
@@ -15,19 +29,34 @@ h1 {
   font-size: 48px;
   text-align: center;
   color: #B51834;
+  margin: 0;
+  padding: 0;
+
 
 }
 
 .box {
   background-color: white;
   height: 200px;
+  width: 600px;
+  position: left;
+  margin: 18%;
+  border: 4px solid white;
+  border-radius: 8px 8px 8px 8px;
+
 
 }
 .presidents {
-  background-color: white;
   height: 200px;
   flex-direction: column;
-  
+
 }
 footer {
+}
+
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: #DEC682;
+    }
 }
