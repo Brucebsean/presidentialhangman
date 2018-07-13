@@ -1,1 +1,3 @@
 # presidentialhangman
+The game is hangman classic with a twist. The concept was to use the all 44 inactive U.S. Presidents as topics for the Hangman game. The 'Puzzle Giver' would read/ask a question, "In 1965, President _________ ___________ was assassinated with a rifle"., "In 1965, President _________ ___________ was assassinated with a revolver"., "In 1817, President _________ ___________ completed his 4th term in office". Accurate spelling is critical here. In the field (currently missing) the player would enter the full name of that given president. The box containing all 44 presidents could be hidden or viewable. 
+Languages and Tools used for this project are Adobe Illustrator, Adobe Photoshop, HTML & CSS.
